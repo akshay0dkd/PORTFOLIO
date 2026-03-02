@@ -61,7 +61,7 @@ export function Resume() {
               <p className="font-medium">Coding Problems Solved</p>
             </div>
             <div className="p-8 rounded-3xl border-2 border-dashed border-accent/30 bg-accent/5 w-full flex flex-col items-center space-y-4">
-              <div className="text-5xl font-bold text-accent">5+</div>
+              <div className="text-5xl font-bold text-accent">3+</div>
               <p className="font-medium">Active Tech Projects</p>
             </div>
           </div>

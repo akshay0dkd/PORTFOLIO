@@ -3,19 +3,19 @@
     {
       "id": "profile-photo",
       "description": "Professional profile photo of a software engineer",
-      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBtYW58ZW58MHx8fHwxNzcyMzg1MDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "pro3.jpeg",
       "imageHint": "professional man"
     },
     {
-      "id": "dsa-project",
-      "description": "Data structures and algorithms code concept",
-      "imageUrl": "https://images.unsplash.com/photo-1743090661053-3d1feb2beab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhbGdvcml0aG0lMjBjb2RlfGVufDB8fHx8MTc3MjQ1MDU2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "skill-swap-platform",
+      "description": "peer to peer learning connect platform ",
+      "imageUrl":   "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
       "imageHint": "algorithm code"
     },
     {
-      "id": "agriconnect-project",
+      "id": "pathpulse-ai-farming-assistant",
       "description": "Agriculture and rural farming technology concept",
-      "imageUrl": "https://images.unsplash.com/photo-1687699331404-080fec4175f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmYXJtaW5nJTIwdGVjaG5vbG9neXxlbnwwfHx8fDE3NzI0NTA1NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef",
       "imageHint": "farming technology"
     },
     {

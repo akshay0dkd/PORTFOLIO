@@ -10,31 +10,68 @@ import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 const projects = [
   {
-    id: "dsa-project",
-    title: "DSA Algorithms Repository",
-    description: "A comprehensive collection of optimized C++ solutions for common data structures and algorithms problems covering sorting, recursion, trees, and more.",
-    tech: ["C++", "STL", "Problem Solving"],
-    highlights: ["100+ Problems Solved", "Clean & Documented Code", "Performance Optimized"],
-    github: "https://github.com",
-    demo: null,
+
+      id: "skill-swap-platform",
+      title: "Skill Swap Platform",
+      description: "A peer-to-peer skill exchange platform that enables students and freelancers to learn new skills without financial barriers. Users can list skills they offer, request skills they want to learn, and connect through a structured matching system.",
+        tech: [
+        "React.js",
+        "Firebase Authentication",
+        "Firestore Database",
+        "JavaScript (ES6+)",
+        "Tailwind CSS",
+        "REST APIs"
+       ],
+      highlights: [
+        "Secure Firebase Authentication (Login/Signup)",
+        "Real-time Skill Matching System",
+        "User Profiles with Ratings & Reviews",
+        "Responsive Mobile-First UI",
+        "Realtime Chat & Notifications",
+        "Optimized Firestore Queries for Performance"
+      ],
+      github: "https://github.com/akshay0dkd/Skill-konect",
+      demo: "https://skill-konnect.vercel.app/"
   },
+
   {
-    id: "agriconnect-project",
-    title: "AgriConnect – Farmer Platform",
-    description: "A digital marketplace connecting rural farmers with available agricultural laborers to simplify hiring and payment processing.",
-    tech: ["React", "Firebase", "Tailwind"],
-    highlights: ["Real-time Labor Availability", "Request Management", "Mobile First Design"],
-    github: "https://github.com",
-    demo: null,
+    id: "pathpulse-ai-farming-assistant",
+    title: "PathPulse – AI Powered Personal Farming Assistant",
+
+    description: "An AI-powered multilingual farming assistant developed for Smart India Hackathon 2025 to help Kerala farmers receive instant crop guidance, weather alerts, and market price updates through text, voice, and image inputs. The system bridges language barriers and provides context-aware advisory support integrated with government agricultural services.",
+
+    tech: [
+      "Next.js",
+      "Firebase (Auth & Firestore)",
+      "Tailwind CSS",
+      "Twilio (IVR & SMS)",
+      "REST APIs",
+      "Vercel Deployment"
+    ],
+
+    highlights: [
+      "Multilingual AI advisory system (English + Regional Languages)",
+      "Multimodal Inputs (Text, Voice, Image)",
+      "Weather-based crop recommendations",
+      "Wholesale market price alerts via SMS",
+      "IVR support for keypad phone users",
+      "Officer Dashboard for query management",
+      "Cloud-first + Offline Hybrid Model",
+      "AI-assisted rapid prototyping using Firebase Studio"
+    ],
+
+    github: "https://github.com/akshay0dkd/Pathpulse_KrishiMitra-",
+    demo: null
   },
+
   {
     id: "movieflex-project",
     title: "MovieFlex AI App",
     description: "Next-gen movie discovery platform using AI to generate intelligent summaries and perform sentiment analysis on user reviews.",
-    tech: ["HTML", "CSS", "JS", "OpenAI API"],
+    tech: ["HTML", "CSS", "JS", "Gemini AI"],
     highlights: ["AI Storyline Generation", "TMDB API Integration", "Responsive UI"],
-    github: "https://github.com",
-    demo: "https://movieflex.com",
+    github: "https://github.com/akshay0dkd/MovieFlex",
+    demo: "https://movie-flex-three-mauve.vercel.app/",
   },
 ];
 

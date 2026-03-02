@@ -8,7 +8,7 @@ import { Progress } from "@/components/ui/progress";
 import { GraduationCap, Code2, Heart, Database, Layout, GitBranch } from "lucide-react";
 
 const skills = [
-  { name: "C++ (DSA)", level: 90, category: "Languages" },
+  { name: "C++ (DSA)", level: 80, category: "Languages" },
   { name: "Java (Development)", level: 75, category: "Languages" },
   { name: "Python", level: 65, category: "Languages" },
   { name: "React & Firebase", level: 70, category: "Tools" },
@@ -51,7 +51,7 @@ export function About() {
                       <span className="text-muted-foreground">Current GPA: 8.5/10 (Expected)</span>
                     </div>
                     <p className="text-muted-foreground leading-relaxed">
-                      Deeply involved in core CS subjects like Data Structures, Algorithms, Object-Oriented Programming, and Database Management. Actively preparing for top-tier tech placements through consistent problem-solving on LeetCode and GeeksforGeeks.
+                      Deeply involved in core CS subjects like Data Structures, Algorithms, Object-Oriented Programming, and Database Management. Actively preparing for tech placements through consistent problem-solving on LeetCode and GeeksforGeeks.
                     </p>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ export function About() {
                   Other Technologies & Tools
                 </h4>
                 <div className="flex flex-wrap gap-3">
-                  {["Git", "GitHub", "Firebase", "REST APIs", "Tailwind CSS", "HTML5", "CSS3", "JavaScript"].map((tool) => (
+                  {["Git", "GitHub", "Springboot", "REST APIs", "Tailwind CSS", "HTML5", "CSS3", "JavaScript"].map((tool) => (
                     <Badge key={tool} variant="outline" className="px-4 py-2 text-sm bg-background">
                       {tool}
                     </Badge>
@@ -119,8 +119,8 @@ export function About() {
                 <CardContent className="p-6 flex space-x-4 items-start">
                   <Layout className="h-10 w-10 text-primary mt-1" />
                   <div>
-                    <h4 className="text-xl font-bold">Public Speaking</h4>
-                    <p className="text-muted-foreground">Active member in tech clubs, improving communication skills and technical evangelism.</p>
+                    <h4 className="text-xl font-bold">Exploring</h4>
+                    <p className="text-muted-foreground">Actively Ready to learn and adapt every new technology to achieve the standards of fast changing tech world(using AI).   </p>
                   </div>
                 </CardContent>
               </Card>
