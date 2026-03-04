@@ -62,7 +62,7 @@ export function Hero() {
             {/* SOCIALS */}
             <div className="flex items-center space-x-6">
               <a
-                href="https://github.com/YOUR_USERNAME"
+                href="https://github.com/akshay0dkd"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -71,7 +71,7 @@ export function Hero() {
               </a>
 
               <a
-                href="https://linkedin.com/in/YOUR_USERNAME"
+                href="https://linkedin.com/in/akshay-bhiogade"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
