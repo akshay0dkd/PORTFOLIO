@@ -30,8 +30,7 @@ export function Hero() {
 
               <p className="text-lg text-muted-foreground max-w-lg">
                 I build scalable applications and real-world tech solutions.
-                Currently focused on mastering DSA and backend development
-                for top tech placements.
+                Currently focused on mastering DSA and backend development.
               </p>
             </div>
 
